@@ -1,6 +1,6 @@
 # OUTTA 논문 리뷰 스터디 2팀
 
-- [OUTTA 논문 리뷰 스터디 2팀](#OUTTA 논문 리뷰 스터디 2팀)
+- [OUTTA 논문 리뷰 스터디 2팀](#OUTTA-논문-리뷰-스터디-2팀)
   - [소개](#소개)
     - [진행](#진행)
     - [Zoom Link](#zoom-link)
@@ -13,14 +13,14 @@
 ## 소개
 
 OUTTA 논문 리뷰 스터디 2팀입니다. <br>
-Computer Vision, NLP, Serial Forecasting, etc. 분야의 논문을 리뷰합니다. 
+Computer Vision, NLP, Serial Forecasting, etc. 분야의 논문을 리뷰합니다.
 
 ### 진행
 
 - 매주 일요일 강남, 세부사항은 아래 [일정](#일정) 참고
 - 한 스터디에 2개의 논문 리뷰
 - 실습 코드를 포함 (파이토치)
-- 해당 발표 논문 간단한 예습 
+- 해당 발표 논문 간단한 예습
 
 ### Zoom Link
 
@@ -57,20 +57,19 @@ Computer Vision, NLP, Serial Forecasting, etc. 분야의 논문을 리뷰합니�
 - [제갈민](https://github.com/gaallmin)
 - [한나경](https://github.com/nkhan-sungshin)
 - [권범윤](https://github.com/Dokko1)
-- [임서영](https://github.com/xxbelight)
-- [장형원]
-- [황주훈]
+- [장형원](https://github.com/HyeongWoen-Jang)
+- [황주훈](https://github.com/jjjuhoon)
 
 ## 일정
 
-| 주  | 일시            | 장소                | 발표자 및 주제                                                    |
-| --- |---------------|-------------------|-------------------------------------------------------------|
-| 0   | 2022년 11월 20일 | 강남역 공간이즈 스터디룸 11호 | 회의<br> [최민동: "Understanding Graph Neural Network"](Nov_20/Understanding_Graph_Neural_Network.pdf) |
-| 1   |  TBA             |    TBA               |                                                             |
-| 2   |  TBA             |    TBA               |                                                             |
-| 3   |  TBA             |    TBA               |                                                             |
-| 4   |   TBA            | TBA               |                                                             |
-| 5   | TBA           | TBA               |                                                             |
+| 주  | 일시            | 장소                | 발표자 및 주제                                                                                                                                                        |
+| --- |---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0   | 2022년 11월 20일 | 강남역 공간이즈 스터디룸 11호 | [최민동: "Understanding Graph Neural Network"](Nov_20/Understanding_Graph_Neural_Network.pdf)                                                               |
+| 1   | 2022년 11월 27일 | 연세대학교 학생회관 313호 | [이동훈 : "Deep Residual Learning for Image Recognition"](Nov_27/Deep Residual Learning for Image Recognition.pdf)<br> [황주훈 : "Generative Adversarial Networks"](Nov_27/Generative Adversarial Networks.pdf) |
+| 2   | TBA           | TBA               |                                                                                                                                                                 |
+| 3   | TBA           | TBA               |                                                                                                                                                                 |
+| 4   | TBA           | TBA               |                                                                                                                                                                 |
+| 5   | TBA           | TBA               |                                                                                                                                                                 |
 
 ## 공지사항
 
