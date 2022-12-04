@@ -1,21 +1,21 @@
 
-![OUTTA Paper Review Study](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=OUTTA%20Paper%20Review%20Study&height=150&fontSize=60&desc=Team%20Two%20%:%20Revies%20Various%20Papers%20about%20Deep%20Learning&descAlignY=76&descAlign=50)  
+![OUTTA Paper Review Study](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=OUTTA%20Paper%20Review%20Study&height=150&fontSize=60&desc=We%20%:%20Review%20Various%20Papers%20about%20Deep%20Learning&descAlignY=76&descAlign=50)  
 
 
-## 👾소개  
+## 👾 소개  
   
 - OUTTA 논문 리뷰 스터디 2팀입니다.
 - Computer Vision, NLP, Serial Forecasting, etc. 분야의 논문을 리뷰합니다.
 
-
-## 🍆진행  
+ 
+## 🍆 진행  
   
 - 매주 일요일 강남역, 세부사항은 아래 [일정](#일정) 참고  
 - 간단한 예습 ➡️ 2편의 논문과 실습(PyTorch)
 - [ZOOM LINK](https://snu-ac-kr.zoom.us/j/8996775094?pwd=akhCMDZPRnR3VisrcFNvU20rbFpUdz09)
 
 
-## 🍠논문 찾는 곳  
+## 🍠 논문 찾는 곳  
 
 - [학술검색](https://github.com/WittmannF/sort-google-scholar)  
 - [디스틸](https://distill.pub )  
@@ -28,7 +28,7 @@
 - [논문 유튜브](https://youtube.com/c/dongbinna )
 
 
-## 🙇‍♀️구성원  
+## 🙇‍♀️ 구성원  
 
 <table>
   <tbody>
@@ -57,7 +57,7 @@
 </table>
 
 
-## 📆일정  
+## 📆 일정  
   
 | 주  | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
 | --- |---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
@@ -69,6 +69,6 @@
 | 5   | TBA           | TBA               |                                                                                                                                                                                                           |
 
 
-## 📣공지사항  
+## 📣 공지사항  
   
 - 12월 11일, 18일은 기말고사 일정으로 발표를 진행하지 않습니다.
