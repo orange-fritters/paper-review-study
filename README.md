@@ -54,7 +54,7 @@
 ## 📆 일정
 
 | 주 | 일시 | 장소 | 발표자 및 주제 |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | 0 | 2022년 11월 20일 | 강남역 공간이즈 스터디룸 11호 | [최민동: "Understanding Graph Neural Network"](Nov_20/Understanding_Graph_Neural_Network.pdf) |
 | 1 | 2022년 11월 27일 | 연세대학교 학생회관 313호 | [이동훈 : "Deep Residual Learning for Image Recognition"](Nov_27/Deep_Residual_Learning_for_Image_Recognition.pdf)<br> [황주훈 : "Generative Adversarial Networks"](Nov_27/Generative_Adversarial_Networks.pdf) |
 | 2 | 2022년 12월 4일 | ZOOM | [제갈민 : "Various Clustering Methods"](Dec_4/U_Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.pdf)<br> [권범윤 : "U-Net : Convolutional Networks for Biomedical Image Segmentation"](Dec_4/U_Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.pdf) |
